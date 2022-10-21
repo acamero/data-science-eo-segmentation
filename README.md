@@ -25,7 +25,7 @@ You should see something like `Python 3.6.9`. This tutorial requires `python >= 
 
 3. Download the data from this [link](https://syncandshare.lrz.de/getlink/fizKL5yAeovBtzn8aHPzn/dynamic_earth_net.h5), and copy it to the folder `data-science-eo-regression/data`.
 
-4. [Recommended] Create a virtual environment `virutalenv --python=python3.6 venv`), and activate it `source venv/bin/activate`.
+4. [Recommended] Create a virtual environment `virutalenv --python=python3.6 venv`, and activate it `source venv/bin/activate`.
 
 5. Install *Jupyterlab* `pip install jupyterlab`.
 
