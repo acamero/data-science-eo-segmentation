@@ -19,7 +19,7 @@ To get started from scratch, please follow the steps:
 python --version
 ```
 
-You should see something like `Python 3.6.9`. This tutorial requires `python >= 3.6`. If you don't have python installed, visit [python.org](https://www.python.org/downloads/), and follow the instructions.
+You should see something like `Python 3.6.9`. This tutorial was tested on `python == 3.10.12`. If you don't have python installed, visit [python.org](https://www.python.org/downloads/), and follow the instructions.
 
 2. Get the code `git clone git@github.com:acamero/data-science-eo-segmentation.git`, and go to the new folder (e.g., `cd data-science-eo-segmentation`).
 
